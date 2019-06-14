@@ -1,14 +1,14 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Orkun Bilici",
+		"label": "Frontend Developer",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
+		"email": "orkun@golgetasarim.com",
+		"phone": "+90 542 358 2963",
+		"website": "http://golgetasarim.com/",
+		"twitter": "https://twitter.com/sorkunbilici",
+		"facebook": "https://www.facebook.com/sorkunbilici",
+		"github": "http://github.com/bilici",
 		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
 	},
 	"theme": {
